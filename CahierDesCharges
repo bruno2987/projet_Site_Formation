@@ -1,0 +1,114 @@
+Présentation d’ensemble du projet :
+
+Présentation globale :
+
+	Un site qui réunit des cours, des exercices, des ressources (liens), des liens et tuto pour installer les environnements de travail et les différents outils pour le développement web.
+
+Rôle du site web : ***
+	Support de formation au développement web.
+	Partage de connaissance entre étudiants et autres.
+	Site vitrine
+
+Genre de site :
+	(inspiration : koor.fr )
+
+
+Cible du site :
+	Développeur web débutant
+	recruteurs et jury de formation
+	nous-même
+
+Site adapté au support mobile :
+	Oui
+
+Nom du site :
+	wishipedia
+
+Hébergement :
+
+Quelles sont les équipes qui le réalisent ?
+
+
+Charte graphique :
+
+Codes couleurs :
+
+	thème sombre : fond sombre et police clair. Palette de couleur et variation de couleurs en fonction des section →  à déterminer par l’équipe front end.
+
+Logo :
+	Un truc à base de canard !
+
+Police :
+
+
+Élément de design :
+
+
+La maquette :
+
+    • maquette de la page d’accueil (sans la side bar)
+    • Navigation :
+
+
+
+La side bar apparaît quand on clique sur un bouton en haut à gauche (menu hamburger) : ex ( https://www.schoolofweb.tech/Virgile_F/exercices/exercice14/index.html )
+
+    • maquette de la page de la page d’inscription
+    • maquette de la page de recherche et de résultats de recherche
+    • maquette du forum (facultatif)
+
+Description fonctionnelle et technique :
+
+Grandes sections du site :
+
+    • Accueil : ***
+    • Cours : ***
+    • exercices : ***
+    • outils : ***
+    • ressources sur le net : ***
+    • banque de code (exemple concret et détaillé) : ***
+    • forum (facultatif)
+
+Organisation des différentes rubriques :
+
+ref maquette.
+Faire une petite explication du comportement des boutons sur la maquette en navigation ***
+Faire une explication du fonctionnement de la page d’accueil.  ***
+
+Espace utilisateur/administrateur :
+
+	Une view admin et une utilisateur. (facultatif).
+	
+
+Moteur de recherche :
+
+	Barre de recherche avec si possible :
+    • autocomplétion
+    • affichage des sections existante …
+
+Quel sont les types de contenus :
+	
+    • articles
+    • liens vers des tutos et des ressources sur le net des outils
+    • images
+    • block de code
+    • code pen
+    • vidéo youtube (i-frame)
+
+Besoin en terme de modification de contenus
+
+	Créer un espace admin où on pourra créer un article, uploader des photos, des bouts de codes ect… En gros pouvoir ajouter/modifier des cours sans avoir à rentrer dans le code ! ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
